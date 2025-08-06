@@ -1,3 +1,8 @@
+---
+layout: default
+title: My First Post with Math
+---
+
 # My First Post
 
 This is a simple post containing text, a table, and a math equation.
